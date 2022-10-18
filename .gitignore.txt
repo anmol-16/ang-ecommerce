@@ -1,0 +1,2 @@
+backend-ecommerce/expresss/node_modules
+frontend-ecommerce/pro-ecom/node_modules
